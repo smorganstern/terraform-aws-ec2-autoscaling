@@ -1,5 +1,4 @@
-# autoscaling---terraform---AWS
-Terraform autoscaling ec2 AWS
+# Terraform autoscaling ec2 AWS
 ## About the project
 ### EC2 Autoscaling
 
